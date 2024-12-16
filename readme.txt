@@ -1,1 +1,1 @@
-this is our hackprix repo
+this is our hackprix repo hackathon
